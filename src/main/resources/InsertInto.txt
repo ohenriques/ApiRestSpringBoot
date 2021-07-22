@@ -1,0 +1,5 @@
+insert into tb_Produto(nome,quantidade,valor) values("Iphone",1,10);
+insert into tb_Produto(nome,quantidade,valor) values("Carro",1,40);
+insert into tb_Produto(nome,quantidade,valor) values("Casa",1,20);
+insert into tb_Produto(nome,quantidade,valor) values("Lavadora",1,50);
+insert into tb_Produto(nome,quantidade,valor) values("Livro",1,60);
